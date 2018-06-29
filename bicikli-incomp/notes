@@ -1,0 +1,3 @@
+Using DFS, recursive function to do a COMPLETE SEARCH is too slow.
+
+Use Dynamic Programming to tackle this problem. Refer to Dr Halim's Book.
